@@ -1,3 +1,4 @@
+// This is a Go file
 package main
 
 import (
